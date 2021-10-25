@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Merienda+One&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: 900%;
+    text-shadow: 1px 1px 1px rgba(5, 5, 5, 0.301);
+}
+p {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    background-color: rgb(252, 250, 250);
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px #0a0a0aa6;
+    height: 50%;
+}
+body {
+    background-image: linear-gradient(to right, #014029, #2D7352);
+}
+#conteudo {
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+}
+.projetos {
+    text-decoration: none;
+}
+.projetos:hover {
+    color: red;
+    text-decoration: underline;
+}
+.contato {
+    text-decoration: none;
+}
+.contato:hover {
+    color: blue;
+    text-decoration: underline;
+}

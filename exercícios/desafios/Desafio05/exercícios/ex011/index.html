@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Meuicone.ico" type="image/x-icon">
+    <title>Mídia em HTML5</title>
+</hea>
+<body>
+    <style>
+        body {
+            background-color: aquamarine;
+        }
+    </style>
+    <h1>Imagens Dinámicas</h1>  
+    <p>Tente abrir esse site em vários dispositivos diferentes 
+    ou simplesmente aumente e diminua o tamanho do seu navegador 
+    </p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png"
+        type="image/png">
+    <source media="(max-width: 1100px)" srcset="imagens/foto-m.png" 
+        type="image/png">
+        <img src="imagens/foto-g.png" alt="imagens Dinámicas">
+    </picture>
+    <h1>Reproduzindo Áudio</h1>
+    <p>vamos aprender a reproduzir áudios em HTML5</p>
+    <audio src="midia/musica1.mp3" controls loop></audio>
+    <!--MP3 OGG WAV-->
+    <br>
+    <audio preload="metadata" controls>
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg">
+        <source src="midia/guanacast-33.ogg" type="audio/ogg">
+        <source src="midia/guanacast-33.wav" type="audio/wav">
+        <p>infelizmente seu navegador não consegue reproduzir áudio. <a 
+        href="midia/musica1.mp3"></a> clique aqui para baixar o arquivo MP3</p>
+    </audio>
+    <br>
+    <p>Você pode ver o meu exercício <strong><a href="indexpratica.html" target="_self" rel="next">clicando aqui</a></strong></p>
+</body>
+</html>

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: aquamarine;
+}
+
+main {
+    max-width: 1000px;
+    min-width: 500px;
+
+    width: 900px;
+    height: 1300px;
+    margin: auto;
+    background-color: white;
+}
+
+main img {
+    display: block;
+    margin: auto;
+}
+
+img {
+    width: 80%;
+}
+
+article > h1 {
+    text-align: center;
+}

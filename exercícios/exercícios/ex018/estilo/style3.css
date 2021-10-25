@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'phil';
+    src: url('fonts/Philosopher-Bold.ttf') format('truetype'), url('fonts/Philosopher-BoldItalic.ttf') format('truetype'), url('fonts/Philosopher-Italic.ttf') format('truetype'), url('fonts/Philosopher-Regular.ttf') format('truetype');
+}
+  p {
+      font-family: 'phil';
+      font-weight: normal;
+  }
+  h1 { 
+      font-family: 'phil';
+      font-size: 3em;
+      font-weight: normal;
+      font-style: normal;
+  }

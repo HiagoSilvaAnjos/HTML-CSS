@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: yellowgreen;
+    color: red;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+}
+h1#primeiro {
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+h1#segundo {
+    background-color: rgb(150, 218, 195);
+    height: 350px;
+    width: 350px;
+    border-width: 15px;
+    border-style: solid;
+    border-color: rgb(20, 102, 3);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}

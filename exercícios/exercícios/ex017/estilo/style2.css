@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    font: normal 1em Arial, Verdana, sans-serif;
+    text-align: left; 
+    background-color: rgba(8, 8, 8, 0.548);
+}
+
+main {
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    width: 800px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px black;
+    height: 700px;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+p {
+    text-align: justify;
+    text-indent: 40px;
+}
