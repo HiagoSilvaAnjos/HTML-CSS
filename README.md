@@ -48,3 +48,5 @@ Estou aprendendo a criar sites!
 [exercício 020](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex020/index.html)
 
 [exercício 021](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex021/index.html)
+
+[exercício 021B](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex021B)
