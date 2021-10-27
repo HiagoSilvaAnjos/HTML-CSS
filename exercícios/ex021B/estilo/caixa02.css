@@ -44,7 +44,7 @@ main {
     border-radius: 5px;
     box-shadow: 2px 2px 5px rgba(2, 2, 2, 0.411);
     max-width: 700px;
-    min-height: 900px;
+    min-height: 800px;
 }
 
 article {
