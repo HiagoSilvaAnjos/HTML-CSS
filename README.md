@@ -52,4 +52,4 @@ Estou aprendendo a criar sites!
 [exercício 021B](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex021B)
 
 # VEJA MEUS DESAFIOS
-[Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/desafio01/index.html)
+[Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)
