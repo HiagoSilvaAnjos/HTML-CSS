@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+}
+
+#Título-Desafio {
+    text-align: center;
+}
+
+main > p {
+    font-size: 1.5em;
+    font-weight: bolder;
+}
