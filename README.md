@@ -54,4 +54,6 @@ Estou aprendendo a criar sites!
 # VEJA MEUS DESAFIOS
 ***
 ## 🚧EM CONSTRUÇÃO!🚧
-[Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)
+[Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)✅
+
+[Desafio02](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio02/index.html)
