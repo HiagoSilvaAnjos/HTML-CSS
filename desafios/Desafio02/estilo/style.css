@@ -1,1 +1,28 @@
 @charset "UTF-8";
+
+body {
+    background-color: rgb(143, 228, 199);
+}
+
+main {
+    background-color: white;
+    max-width: 700px;
+    max-height: 700px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+main > h1 {
+    text-align: center;
+}
+
+main > h2 {
+    text-align: center;
+}
+    
+    
+
+main > p {
+    padding: 10px;
+    text-align: justify;
+}
