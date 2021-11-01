@@ -2,6 +2,7 @@
 
 body {
     background-color: rgb(143, 228, 199);
+    text-align: justify;
 }
 
 main {
@@ -14,15 +15,21 @@ main {
 
 main > h1 {
     text-align: center;
-}
-
-main > h2 {
-    text-align: center;
-}
-    
-    
+} 
 
 main > p {
-    padding: 10px;
+    margin: 5px 5px;
+    text-indent: 10px;
     text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+#Warning {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin: auto;
 }
