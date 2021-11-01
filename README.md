@@ -4,7 +4,8 @@
  
 Estou aprendendo a criar sites!
 
-# VEJA MEUS EXERCÍCOS✅
+<h1 align="center">VEJA MEUS EXERCÍCIOS✅<h1>
+
 [exercício 001](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex001/index.html)✅
 
 [exercício 002](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex002/index.html)✅
@@ -51,9 +52,10 @@ Estou aprendendo a criar sites!
 
 [exercício 023](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex021B)✅
 
-# VEJA MEUS DESAFIOS
-***
-## 🚧EM ANDAMENTO!🚧
+<h1 align="center">VEJA MEUS DESAFIOS</h1>
+
+<h2 align="center">🚧EM CONSTRUÇÃO!🚧<h2>
+
 [Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)✅
 
 [Desafio02](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio02/index.html)✅
