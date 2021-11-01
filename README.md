@@ -1,9 +1,10 @@
 <h1 
 align="center">HTML5 | CSS3
-<h1>
-Estou aprendendo a criar sites!
+</h1>
 
-<h3 align="center">VEJA MEUS EXERCÍCIOS✅<h3>
+<h2 align="center">VEJA MEUS EXERCÍCIOS✅</h2>
+
+***
 
 <p>
 <a href="https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex001/index.html">exercício 001✅</a>
@@ -55,7 +56,9 @@ Estou aprendendo a criar sites!
 
 <h2 align="center">VEJA MEUS DESAFIOS</h2>
 
-<h3 align="center">🚧EM CONSTRUÇÃO!🚧<h3>
+***
+
+<h3 align="center">🚧EM CONSTRUÇÃO!🚧</h3>
 
 [Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)✅
 
