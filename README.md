@@ -1,12 +1,13 @@
-# HTML5-CSS3
-## Curso de HTML-CSS
-
- 
+<h1 
+align="center">HTML5 | CSS3
+<h1>
 Estou aprendendo a criar sites!
 
-<h1 align="center">VEJA MEUS EXERCÍCIOS✅<h1>
+<h3 align="center">VEJA MEUS EXERCÍCIOS✅<h3>
 
-[exercício 001](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex001/index.html)✅
+<p>
+<a href="https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex001/index.html">exercício 001✅</a>
+</p>
 
 [exercício 002](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex002/index.html)✅
 
@@ -52,9 +53,9 @@ Estou aprendendo a criar sites!
 
 [exercício 023](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex021B)✅
 
-<h1 align="center">VEJA MEUS DESAFIOS</h1>
+<h2 align="center">VEJA MEUS DESAFIOS</h2>
 
-<h2 align="center">🚧EM CONSTRUÇÃO!🚧<h2>
+<h3 align="center">🚧EM CONSTRUÇÃO!🚧<h3>
 
 [Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)✅
 
