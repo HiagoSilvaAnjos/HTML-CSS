@@ -67,3 +67,5 @@ align="center">HTML5 | CSS3
 [Desafio03](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio03/index.html)✅
 
 [Desafio04](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio04/index.html)✅
+
+[Desafio05](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio05/index.html)✅
