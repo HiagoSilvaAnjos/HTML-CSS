@@ -7,6 +7,14 @@
     <title>Desafio07</title>
 </head>
 <body>
-    <h1>EM BREVE</h1>
+    <h1>Imagem Flexível</h1>
+    <p>
+        Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar melhor experiência🤯
+    </p>
+    <picture>
+        <source media="(max-width: 700px)" srcset="imagens/paisagem-p.png">
+        <source media="(max-width: 900px)" srcset="imagens/paisagem-m.png">
+        <img src="imagens/paisagem-g.png" alt="imagem de paisagem grande">
+    </picture>
 </body>
 </html>
