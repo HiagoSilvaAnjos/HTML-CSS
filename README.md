@@ -1,6 +1,4 @@
-<h1 
-align="center">HTML5 | CSS3
-</h1>
+<h1 align="center">HTML5 | CSS3</h1>
 
 <h2 align="center">VEJA MEUS EXERCÍCIOS✅</h2>
 
