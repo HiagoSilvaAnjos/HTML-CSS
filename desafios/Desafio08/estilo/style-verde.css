@@ -28,13 +28,13 @@ main > p {
 }
 
 main  a {
-    color: rgb(29, 87, 29);
+    color: rgb(84, 88, 84);
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: hsl(108, 87%, 9%);
+    color: hsl(113, 4%, 63%);
 }
 
 li {
