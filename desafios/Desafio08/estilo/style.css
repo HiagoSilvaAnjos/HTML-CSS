@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(127, 255, 212);
+    background-color: rgb(73, 77, 75);
 }
 
 
@@ -26,13 +26,13 @@ main > p {
 }
 
 main  a {
-    color: blue;
+    color: rgb(75, 75, 116);
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: hsl(0, 89%, 45%);
+    color: hsl(0, 1%, 19%);
 }
 
 li {

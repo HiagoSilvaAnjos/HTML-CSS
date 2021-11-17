@@ -24,17 +24,17 @@ main > p {
     text-align: justify;
     text-indent: 10px;
     padding: 0.5em 0.5em 0.5em;
-    color: rgb(30, 87, 8);
+    color: rgb(5, 78, 17);
 }
 
 main  a {
-    color: blue;
+    color: rgb(29, 87, 29);
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: hsl(0, 89%, 45%);
+    color: hsl(108, 87%, 9%);
 }
 
 li {
