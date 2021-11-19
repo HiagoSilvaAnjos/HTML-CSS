@@ -72,4 +72,6 @@
 
 [Desafio07](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio07/index.html)✅
 
-[Desafio08](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio08/index.html)🚧
+[Desafio08](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio08/index.html)✅
+
+[Desafio09](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio09/index.html)🚧
