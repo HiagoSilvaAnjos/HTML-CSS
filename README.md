@@ -56,7 +56,6 @@
 
 ***
 
-<h3 align="center">🚧EM CONSTRUÇÃO!🚧</h3>
 
 [Desafio01](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio01/index.html)✅
 
@@ -76,4 +75,4 @@
 
 [Desafio09](https://hiagosilvaanjos.github.io/html-css/desafios/Desafio09/index.html)✅
 
-[Projeto-Site-Android](https://hiagosilvaanjos.github.io/html-css/desafios/Projeto-Site-Android/index.html)🚧
+[Projeto-Site-Android](https://hiagosilvaanjos.github.io/projeto-android/)✅
