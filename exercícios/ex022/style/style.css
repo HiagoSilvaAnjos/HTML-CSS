@@ -1,3 +1,7 @@
+body {
+    background: url(../image/wallpaper002.jpg) center/cover no-repeat fixed;
+}
+
 .square {
     display: inline-block;
     border: 2px solid black;
