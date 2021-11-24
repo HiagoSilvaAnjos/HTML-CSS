@@ -1,0 +1,21 @@
+.square {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+}
+
+#sque1 {
+    background-color: red;
+}
+
+#sque2 {
+    background-image: linear-gradient(to bottom, yellow, red);
+}
+
+#sque3 {
+    background: url(../image/pattern001.png);
+  
+}
