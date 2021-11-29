@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    background: url("../image/wallpaper002.jpg") center center/cover no-repeat;
+    background: url("../image/wallpaper002.jpg") center center/cover repeat-y;
     background-color: rgb(0, 0, 0);
 }
 main {
