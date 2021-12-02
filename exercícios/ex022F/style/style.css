@@ -1,0 +1,21 @@
+#container {
+    background: url("../image/target001.png");
+    background-size: 100% 100%;
+    background-color: rgb(46, 35, 35);
+    position: relative;
+    height: 94vh;
+    padding: 10px;
+    
+}
+
+#content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 400px;
+    background-image: url("../image/target001.png");
+    background-size: 100% 100%;
+    background-color: rgb(251, 255, 0);
+}
