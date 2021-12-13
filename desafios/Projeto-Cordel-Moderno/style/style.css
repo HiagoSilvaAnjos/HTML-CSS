@@ -2,11 +2,19 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --fontPadrão: verdana, Geneva, Tahoma, sans-serif;
+    --fontTitulo: 'Passion One', cursive;
+    --fontConteudo: 'Sriracha', cursive;
 }
 
 html, body {
     min-height: 100vh;
     background-color: darkgray;
+    font-family: var(--fontPadrão);
 }
 
 header {
@@ -17,7 +25,9 @@ header {
 
 header > h1 {
     padding-top: 50px;
+    font-size: 8.5vw;
     font-variant: small-caps;
+    font-family: var(--fontTitulo);
 }
 
 header > p {
@@ -35,6 +45,8 @@ header a:hover, footer a:hover {
 }
 
 section {
+    font-family: var(--fontConteudo);
+    font-size: 3.5vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
@@ -53,7 +65,8 @@ section {
 }
 
 .image > p {
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: #0000003b;
 }
 
