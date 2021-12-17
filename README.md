@@ -58,6 +58,8 @@
 
 [exercício 022C](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex022C)✅
 
+[exercício 022D](https://hiagosilvaanjos.github.io/html-css/exerc%C3%ADcios/ex022D)✅
+
 <h2 align="center">VEJA MEUS DESAFIOS</h2>
 
 ***
